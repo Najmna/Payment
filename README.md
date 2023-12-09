@@ -22,7 +22,9 @@ The second one is to execute the project also in your terminal but with the name
 ## Unit Test
 There is a Unit Test project along with the main one where you can run some tests. This project was created in **Visual Studio** using **.NET 7.0** with **MSTest**, so you only need to go to **View > Test Explorer** and run the tests.
 
-
 ![image](https://github.com/Najmna/Payment/assets/80434655/b824e886-6674-4b09-9395-f7fe00423193)
+
+> [!NOTE]
+> In the ZIP file you will see 2 folder the **CapitalGains** is the main project and the **CapitalGainsTest** is the Unit Test project.
 
 Please, enjoy!
